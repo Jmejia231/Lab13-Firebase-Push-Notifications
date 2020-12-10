@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822587439540",
+    "project_id": "lab13-firebase-notifications",
+    "storage_bucket": "lab13-firebase-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822587439540:android:0824add7c155f5f2d5dae1",
+        "android_client_info": {
+          "package_name": "com.example.lab13_firebase_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822587439540-v4caf2kiej2f12mccql284ftmq3lboe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUp8DnIjh7sJm09aOy6HGaleFdP04ytME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822587439540-v4caf2kiej2f12mccql284ftmq3lboe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

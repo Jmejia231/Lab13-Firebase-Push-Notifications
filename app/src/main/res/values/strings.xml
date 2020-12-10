@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab13_Firebase_Notifications</string>
+    <string name="textSavePerson">Registrarse</string>
+    <string name="textTile">Notificaciones Push Automatizadas</string>
+    <string name="errorEmptyName">Ingrese un Nombre</string>
+    <string name="errorEmptyAger">Ingrese una Edad</string>
+    <string name="message">se acaba de registrar.</string>
+    <string name="newRegister">Nuevo Registro</string>
+    <string name="textQuantity">"Cantidad de registros: "</string>
+    <string name="ok">OK</string>
+</resources>
